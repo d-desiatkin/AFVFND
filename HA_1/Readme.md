@@ -5,8 +5,7 @@ find ready set what will contain some game devoted site, but I failed. So I writ
 script what will search through common crawl index and upload specific site. As a
 data set I have used the game blog https://www.kotaku.com . I wrote a parser for that
 site. As output I had 220 MB of text.
-My data set: https://drive.google.com/open?id=15h4-L8ZCCtSP2kxPEi-
-5UMJyiIKd0ITA .
+My data set: https://drive.google.com/open?id=15h4-L8ZCCtSP2kxPEi-5UMJyiIKd0ITA.
 
 After I have used “Google colab” version of GPT2 what you have provided. I trained
 345M model.
