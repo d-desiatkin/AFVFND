@@ -9,8 +9,7 @@ My data set: https://drive.google.com/open?id=15h4-L8ZCCtSP2kxPEi-5UMJyiIKd0ITA.
 
 After I have used “Google colab” version of GPT2 what you have provided. I trained
 345M model.
-My output language models: https://drive.google.com/open?id=1932u2aiSw-
-UhR0q5dSBi2xVob_wnBlDf .
+My output language models: https://drive.google.com/open?id=1932u2aiSw-UhR0q5dSBi2xVob_wnBlDf.
 
 Second huge issue was to make a video. I used several algorithms, but they had a
 poor output. After I asked my group mates and Maks suggested to use face2face
